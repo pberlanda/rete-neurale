@@ -1,13 +1,2 @@
-{
-  "name": "C Development",
-  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-vscode.cpptools",
-        "ms-vscode.cpptools-extension-pack",
-        "ms-vscode.cmake-tools"
-      ]
-    }
-  }
-}
+## progetto rete neurale ##
+# 4INA: implementazione rete neurale a due livelli"
